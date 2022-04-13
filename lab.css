@@ -1,0 +1,33 @@
+form{
+    width: 400px;
+    margin: auto;
+    padding: 10px 40px;
+    background: white;
+    border: 1px solid black;
+    /* background-image: url(anh/hhh.png); */
+}
+form .form-control{
+
+    width: 384px;
+    padding: 1px;
+    border: solid 1px black;
+    background-image: url(anh/hhh.png);
+}
+
+
+button{
+   background-image: url(anh/hhh.png);
+   margin-left: 40%;
+    width: 88px;
+    height: 50px;
+  border-radius: 15px;
+  border: 2px solid black;
+  cursor: pointer;
+}
+h2{
+    text-align: center;
+   
+}
+body{
+    background-image: url(anh/hhh.png);
+}
